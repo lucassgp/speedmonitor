@@ -1,6 +1,6 @@
 # speedmonitor
 
-## Programa para monitorar a velocidade de conexão.
+## Programa para monitorar a velocidade de conexão utilizando a bilioteca speedtest-cli.
 
 ## Pacotes/versão Necessários:
 
@@ -14,7 +14,7 @@
 - Quando finalizar o monitoramento, será plotado um gráfico com as velocidade de download e upload.
 - Se desejar exportar o gráfico e a tabela com as informações, descomentar as linhas 97 e 101.
 
-# abstract
+# Abstract
 ## Program to monitor the connection speed. 
 
 ## How to use:
